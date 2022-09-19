@@ -1,5 +1,6 @@
 # Computing Eigenfrequencies using Finite Element Methods - Code
-Code used in "Computing Eigenfrequencies using Finite Element Methods"
+Code used in "Computing Eigenfrequencies using Finite Element Methods"      
+Authors: [Sebastian Hirnschall](https://github.com/shirnschall), [Rafael Dorigo](https://github.com/erdieee), [Christoph Leonhartsberger](https://github.com/ChristophLeonhartsberger)
 
 ### Requirements
 This code uses [NGSolve](https://ngsolve.org/downloads) and Python. Check the NGSolve site to see which python version is recommended.
